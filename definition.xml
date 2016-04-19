@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ExtensionObject  Path="font-awesom-icons"
+                  Label="Font Awesome icons"
+                  Description="Icons from Font Awesome"
+                  Type="object">
+<Text Label="Icon Code" Type="text" Initial="" Expression=""/>
+<Text Label="Size" Type="text" Initial="" Expression=""/>
+<Text Label="Color Code" Type="text" Initial="" Expression=""/>
+<Text Label="Box color" Type="text" Initial="" Expression=""/>
+<!-- <Text Label="Selecciona" Type="select"  Select="fa fa-pie-chart,fa fa-minus-square" SelectLabel="" Expression=""/> -->
+
+<Initiate Name="Layout.Normal.Width" Value="100" />
+<Initiate Name="Layout.Normal.Height" Value="100" />
+<Initiate Name="Layout.Border.Use" Value="0" />
+<Initiate Name="Background.Color.Transparency" Value="255" />
+<Initiate Name="Caption.Show" Value="0" />
+</ExtensionObject>
