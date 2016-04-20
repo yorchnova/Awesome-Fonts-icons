@@ -1,9 +1,8 @@
-var template_path = Qva.Remote + "?public=only&name=Extensions/font-awesom-icons/";
+var template_path = Qva.Remote + "?public=only&name=Extensions/font-awesome-icons/";
 
 //Path to css extension
 Qva.LoadCSS('https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css');
-
-Qv.AddExtension("font-awesom-icons", function(){
+Qv.AddExtension("font-awesome-icons", function(){
 
 	//variables for icon, size and color
 	var icon=this.Layout.Text0.text ? this.Layout.Text0.text : 'fa fa-bar-chart';

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<ExtensionObject  Path="font-awesom-icons"
+<ExtensionObject  Path="font-awesome-icons"
                   Label="Font Awesome icons"
                   Description="Icons from Font Awesome"
                   Type="object">
